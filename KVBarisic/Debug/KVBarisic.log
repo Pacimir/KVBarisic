@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Take 2\KVBarisic\KVBarisic\main.c(133,16): error C2099: initializer is not a constant
+D:\Take 2\KVBarisic\KVBarisic\main.c(230,32): warning C4018: '>=': signed/unsigned mismatch
+D:\Take 2\KVBarisic\KVBarisic\main.c(230,116): warning C4018: '>=': signed/unsigned mismatch
