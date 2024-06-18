@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\student\Downloads\KVBarisic\KVBarisic\KVBarisic\main.c(55,20): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+C:\Users\student\Downloads\KVBarisic\KVBarisic\KVBarisic\main.c(90,20): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+C:\Users\student\Downloads\KVBarisic\KVBarisic\KVBarisic\main.c(144,20): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+C:\Users\student\Downloads\KVBarisic\KVBarisic\KVBarisic\main.c(255,32): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\student\Downloads\KVBarisic\KVBarisic\KVBarisic\main.c(255,116): warning C4018: '>=': signed/unsigned mismatch
+  product.c
+  Generating Code...
+  KVBarisic.vcxproj -> C:\Users\student\Downloads\KVBarisic\KVBarisic\Debug\KVBarisic.exe
